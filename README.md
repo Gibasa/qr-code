@@ -8,8 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Gibasa/qr-code)
-- Live Site URL: [Add live site URL here](https://gibasa.github.io/qr-code/)
+- Solution URL: [[Solution URL here](https://github.com/Gibasa/qr-code)]()
+- Live Site URL: [Live site URL here](https://gibasa.github.io/qr-code/)
 
 ### Built with
 
@@ -21,4 +21,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - [Gilberto](https://github.com/Gibasa)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Gibasa](https://www.frontendmentor.io/profile/yourusername)
